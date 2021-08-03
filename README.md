@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <h2>Hello World 👋, I'm <a href="https://onkardev.netlify.app/">Onkar</a></h2>
 <p>I'm a Passionate software engineer. I am working on some side projects and learning new stuff, learning to cook couple new dishes, and trying to be the best version of myself.</p>
 <p>
+<a href="https://www.linkedin.com/in/onkar-nirhali-4867a2141/"><img style="font-color:blue" alt="linkedIn" src="https://raw.githubusercontent.com/Financial-Times/social-images/master/src/linkedin.svg"width="35" height="35"></a>
+<a href="https://twitter.com/heyoncar"><img alt="twitter" src="https://raw.githubusercontent.com/Financial-Times/social-images/master/src/twitter.svg"width="35" height="35"></a>
+</p>
+<p>
 </p>
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
@@ -26,6 +30,7 @@ Here are some ideas to get you started:
 <li>👨🏻‍💻 JavaScript Enthusiast.</li>
 <li>🧐 Catering my Interest in <strong>Android App Development</strong> with <strong>Kotlin</strong> for Android.</li>
 <li>👨‍💻 My projects are available on <a href="https://github.com/onkarnirhali">Github</a>.</li>
+<li>🙋🏻‍♂️ Want to know more about me, head over <a href="https://onkardev.netlify.app/">here</a>.</li>
 
 </ul>
 <h2> ⚙️ Tech and Tools I Use</h2>
@@ -51,5 +56,3 @@ Here are some ideas to get you started:
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=onkarnirhali&show_icons=true&count_private=true" alt="spiderpig86" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=onkarnirhali.onkarnirhali" alt="visitors"></p>
-
-
