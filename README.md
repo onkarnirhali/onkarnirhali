@@ -27,18 +27,6 @@ Here are some ideas to get you started:
 <li>🧐 Catering my Interest in <strong>Android App Development</strong> with <strong>Kotlin</strong> for Android.</li>
 <li>👨‍💻 My projects are available on <a href="https://github.com/onkarnirhali">Github</a>.</li>
 
-<h2>Hello World 👋, I'm <a href="https://onkardev.netlify.app/">Onkar</a></h2>
-<p>I'm a Passionate software engineer. I am working on some side projects and learning new stuff, learning to cook couple new dishes, and trying to be the best version of myself.</p>
-<p>
-</p>
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>💼 I have gained proficiency in <strong>Angular</strong> and <strong>.Net</strong> along with <strong>SQL(MS-SQL Server)</strong> for database; by working as a Full Stack Engineer for <strong>2+ years</strong>.</li>
-<li>👨🏻‍💻 JavaScript Enthusiast.</li>
-<li>🧐 Catering my Interest in <strong>Android App Development</strong> with <strong>Kotlin</strong> for Android.</li>
-<li>👨‍💻 My projects are available on <a href="https://github.com/onkarnirhali">Github</a>.</li>
-
 </ul>
 <h2> ⚙️ Tech and Tools I Use</h2>
 <p align="left">
@@ -63,4 +51,5 @@ Here are some ideas to get you started:
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=onkarnirhali&show_icons=true&count_private=true" alt="spiderpig86" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=onkarnirhali.onkarnirhali" alt="visitors"></p>
+
 
