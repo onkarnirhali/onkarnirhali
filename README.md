@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 <h2>Hello World 👋, I'm <a href="https://onkardev.netlify.app/">Onkar</a></h2>
 <p>I'm a Passionate software engineer. I am working on some side projects and learning new stuff, learning to cook couple new dishes, and trying to be the best version of myself.</p>
-<p>
-<a href="https://www.linkedin.com/in/onkar-nirhali-4867a2141/"><img style="font-color:blue" alt="linkedIn" src="https://raw.githubusercontent.com/Financial-Times/social-images/master/src/linkedin.svg"width="35" height="35"></a>
-<a href="https://twitter.com/heyoncar"><img alt="twitter" src="https://raw.githubusercontent.com/Financial-Times/social-images/master/src/twitter.svg"width="35" height="35"></a>
-</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onkar-nirhali-4867a2141/) [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://onkardev.netlify.app/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/heyoncar)
+
 <p>
 </p>
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
@@ -54,5 +53,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=onkarnirhali&show_icons=true&count_private=true" alt="spiderpig86" />
+<img src="https://github-readme-stats.vercel.app/api?username=onkarnirhali&show_icons=true&count_private=true" alt="onkarnirhali" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onkarnirhali&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=onkarnirhali.onkarnirhali" alt="visitors"></p>
